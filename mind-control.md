@@ -1,0 +1,2 @@
+A choice driven story game something like a "tales" game or those interactive novel type games
+The central mechanic is that anyone who hears your character, even if they are not the one being spoken to, must obey her to the letter

@@ -1,0 +1,1 @@
+A game in one of the genres britt likes (like dreamlight valley, stardew valley, garden paws, the sims, slime rancher, etc) but built around 4x mechanics
