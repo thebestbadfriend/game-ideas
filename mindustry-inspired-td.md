@@ -22,7 +22,7 @@ this is partly a list to remember what resources I'm thinking of including and p
 - oil
 
 ### Other resources
-- time
+- time (either as real-time or as turns, but most likely real-time)
 - experience in whatever fashion might be considered a resource
 ---
 ## Tech advancement
@@ -40,17 +40,17 @@ Maybe something like this
 Another idea that could be a kind of addition to the above is
 - upgrading towers and other buildings by manufacturing parts for them at factories in a fashion similar to training units in AOE except that the parts require resources/other parts to be transported to the factory (as should be obvious from the factorio-likeness of this concept) and then the parts themselves have to be transported to the towers (or other buildings?) either manually or by conveyors and such
   - specific parts could provide specific bonuses or even fundamentally change how certain buildings work
-  - could even have base nodes that are mostly unspecialized but that have slots for installing modules so that you might have a 1 slot node for cheap that could only hold one module (but most any one module (maybe make some modules take up multiple nodes if they are powerful enough)) and go up to a 4 slot node for a higher price but that could be - in one building - 4 turrets or one very powerful turret with upgrades for it installed in the other three slots or 3 turrets and an on-board power generator or something else. This could be a pretty cool concept and adds slot-management as a consideration during gameplay. If you do this, then do you want upgrades to apply at the node level or at the module level or some combination such that nodes can be upgraded in ways that improve their overall function while modules have specific tech trees relating to their specialized purposes
+  - could even have most or all major buildings (basically everything that is not a logistic tool) be built on top of blank nodes that are just platforms for modules to be built on and that have slots for installing modules so that you might have a 1 slot node for cheap that could only hold one module (but most any one module (maybe make some modules take up multiple nodes if they are powerful enough)) and go up to a 4 slot node for a higher price but that could be - in one building - 4 turrets or one very powerful turret with upgrades for it installed in the other three slots, or 3 turrets and an on-board power generator so that the tower does not require as much (or maybe any) power from other sources, or something else. This could be a pretty cool concept and adds slot-management as a consideration during gameplay. If you do this, then do you want upgrades to apply at the node level or at the module level or some combination such that nodes can be upgraded in ways that improve their overall function while modules have specific tech trees relating to their specialized purposes? Same question for specialized parts. Do you want specialized parts only for nodes, only for modules, or for both, or if you do this then do you want specialized parts at all? Do the modules not already kind of serve that purpose? Maybe instead of specialized parts, you could have advanced manufactured ammunitions, lubricants, and such that can be supplied to buildings similarly to how it works in mindustry (it's not plagiarism to have that be pretty similar, that's how supply lines tend to work in games like this (remember that there is a difference between natural similarities because of the kind of game it is vs plagiarism of unique or specific ideas. Just stay on the right side of that line)). I think I like that idea better actually. Remember to revise this doc and put ideas where they go so that the whole thing does not stay cluttered like this. Don't delete old ideas though. Just put them in a separate category like "things to maybe implement in another game" or something.
 
 ---
-## Overworld and levels
+## Overworld and territories
 
 mindustry uses a world map of sorts. Do similar but with rise of nations or warhammer 40k elements like a turn based world map with each territory being a "level" you can attack or defend etc?
 
 ---
 ## Factions
 
-Like an oil-focused faction (benefits/drawbacks? pollution?) or a nature-focused faction (benefits/drawbacks? Unable to use oil or heavy penalty related to using oil?)
+Like an oil-focused faction (benefits/drawbacks? pollution (how would this work? some kind of penalty to other things?)?) or a nature-focused faction (benefits/drawbacks? Unable to use oil or heavy penalty related to using oil?)
 Factions could be similar to in rise of nations or warhammer 40k too. Maybe throw in something like the shipments feature of AOE3?
 
 ---
@@ -68,3 +68,4 @@ Don't get hung up on this. Build the game, and then you can work on multiplayer 
 
 Also remember that mindustry is graphically minimalistic but still does well. Do what you do well, and don't worry too much about the rest. It'll come. There are free assets or if you really need to do things like art yourself, pixel art - even very simplistic pixel art - has been used to make very successful games.
 
+Don't worry about story or setting or anything like that yet. Get the mechanics where you want them and then put whatever skin or story around that you want. This could even turn into several different but similar games with little more than a reskin and minor tweaks to some mechanics (maybe add one or two and take away one or two) in a similar fashion to what it seems was done with warhammer (fantasy) and warhammer 40k (sci-fi).
