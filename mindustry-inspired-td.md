@@ -13,11 +13,17 @@ factorio meets tower defense (which is the basic concept of mindustry)
 ---
 ## Resources
 
+this is partly a list to remember what resources I'm thinking of including and partly a list to remind me to think about how to enforce the management of "resources". For example, you don't collect time - of course - but if there is nothing pressing on you to manage your time (such as preparing for enemy attacks or beating a countdown etc), then time management naturally doesn't matter that much, and in a game like this, that often seems undesirable.
+
+### Natural resources
 - wood
 - iron
 - gold
 - oil
 
+### Other resources
+- time
+- experience in whatever fashion might be considered a resource
 ---
 ## Tech advancement
 
@@ -30,6 +36,11 @@ Maybe something like this
   - could pair this individual-style progression with a system inspired by monkey knowledge so that most upgrades are done at the individual tower/unit level but some very expensive upgrades that affect all of a category of things (all towers, all attack units, all resource gathering buildings and units, the gameplay itself (such as mana shield in bloons)) can be bought in a centralized tabular menu
   - after reaching a certain "level" overall should a tower/unit become a "hero"
     - imagine hero resource gatherers/power plants. lol (that could actually be a very interesting concept. What would make a power plant a "hero")
+
+Another idea that could be a kind of addition to the above is
+- upgrading towers and other buildings by manufacturing parts for them at factories in a fashion similar to training units in AOE except that the parts require resources/other parts to be transported to the factory (as should be obvious from the factorio-likeness of this concept) and then the parts themselves have to be transported to the towers (or other buildings?) either manually or by conveyors and such
+  - specific parts could provide specific bonuses or even fundamentally change how certain buildings work
+  - could even have base nodes that are mostly unspecialized but that have slots for installing modules so that you might have a 1 slot node for cheap that could only hold one module (but most any one module (maybe make some modules take up multiple nodes if they are powerful enough)) and go up to a 4 slot node for a higher price but that could be - in one building - 4 turrets or one very powerful turret with upgrades for it installed in the other three slots or 3 turrets and an on-board power generator or something else. This could be a pretty cool concept and adds slot-management as a consideration during gameplay. If you do this, then do you want upgrades to apply at the node level or at the module level or some combination such that nodes can be upgraded in ways that improve their overall function while modules have specific tech trees relating to their specialized purposes
 
 ---
 ## Overworld and levels
