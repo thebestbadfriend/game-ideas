@@ -56,6 +56,9 @@ Maybe something like this
               - some interesting combinations possible here
                 - What about an area effect tower "manned" with a sniper
                 - Or a healing tower that heals your units combined with an "increase base damage" unit so that combat units within range of the healing tower also have their base damage increased while they stay within range of that tower
+    - maybe each hero has a building it can build where it can garrison in the building in order to install upgrades on itself (each hero should have unique upgrades that can be installed based on its type and each upgrade should cost materials that have to be logistic'd to the building. These should be expensive and should require different materials for each hero with each hero having a primary material that is required in large amounts for all upgrades and a couple secondaries which are required in smaller but still significant amounts)
+      - maybe each hero can be upgraded with one of three options per hero level, and hero level is increased by installing an upgrade (so that there is a similar progression of choices when picking upgrades at each hero level as there is when picking heroes at each HQ level)
+        - maybe at level 5 or something each hero has a "paragon" upgrade available or something like that which serves as a kind of powerful (but very expensive) capstone based on the combination of upgrades chosen up to that point. Not sure whether I will offer a choice in that upgrade or if the one you get is just determined by the combination of upgrades chosen up to that point
 
 <br>
 Another idea that could be a kind of addition to the above is
