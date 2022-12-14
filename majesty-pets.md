@@ -1,0 +1,1 @@
+a game like majesty hd but where it is pet-centric. Pets revolting against humans? Pets trying to save their humans? Use food/toys/jewelry/important items like keys or wallets/etc to attract different animals to different targets similar to how different hero types respond differently in majesty?
