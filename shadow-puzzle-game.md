@@ -1,0 +1,1 @@
+a puzzle game where shadows are treated like solid objects and the core mechanic is to do with angling light in such a way that shadows arrange themselves in useful ways
